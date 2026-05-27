@@ -13,3 +13,4 @@ Public target repository for testing cross-account pull request flow.
 | Date | Action |
 |---|---|
 | 2026-05-27 | Repository initialized. |
+| 2026-05-27 | Cross-account pull request entry one. |
